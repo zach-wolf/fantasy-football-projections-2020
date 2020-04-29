@@ -1075,7 +1075,7 @@ PRED2019ALL <- cbind(PRED2019ALL,Bin)
 # write.csv(PRED2019ALL, file = "2020_predictions.csv")
 
 
-
+#### PLOTS ####
 ## Histogram plots comparing 2019 points to 2020 preds
 
 # Top 50 RBs 2019
