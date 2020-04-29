@@ -1,5 +1,4 @@
-# fantasy-football-projections-2020
-Machine Learning: Fantasy Football Projections Project
+# Machine Learning: Fantasy Football Projections
 
 Fantasy football has become extremely popular over the last 10 years. The [Fantasy Sports and Gaming Association](https://thefsga.org/industry-demographics/) estimated that there were 36 million fantasy football participants in the United States in 2019. Of those participants, roughly 80% spent money in some way to play. According to [FOX Business](https://www.foxbusiness.com/economy/fantasy-football-the-billion-industry), in 2018 the average player spent $556 in league-related costs.
 
